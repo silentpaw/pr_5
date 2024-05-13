@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="SOTomatoes">
+        <item>Помидорый черри</item>
+        <item>Помидорый сливки</item>
+        <item>Помидорый рома</item>
+        <item>Помидорый бакинские</item>
+        <item>Помидорый коктейльные</item>
+        <item>Помидорый чери</item>
+        <item>Помидорый кумато</item>
+        <item>Помидорый бифштекс</item>
+        <item>Помидорый желтые</item>
+        <item>Помидорый зеленые</item>
+    </string-array>
+</resources>

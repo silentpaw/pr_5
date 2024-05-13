@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="SOPotatoes">
+        <item>Белый картофель</item>
+        <item>Красный картофель</item>
+        <item>Желтый картофель</item>
+        <item>Фиолетовый картофель</item>
+        <item>Сладкий картофель</item>
+        <item>Картофель-фри</item>
+        <item>Картофель-пай</item>
+        <item>Картофель-пюре</item>
+        <item>Картофель-гратен</item>
+        <item>Картофель-суп</item>
+    </string-array>
+</resources>

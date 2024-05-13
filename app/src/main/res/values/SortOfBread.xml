@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="SOBread">
+        <item>Белый хлеб</item>
+        <item>Ржаной хлеб</item>
+        <item>Цельнозерновой хлеб</item>
+        <item>Багет</item>
+        <item>Чиабатта</item>
+        <item>Фокачча</item>
+        <item>Хлеб на закваске</item>
+        <item>Хлеб с семечками</item>
+        <item>Хлеб с орехами</item>
+        <item>Хлеб с травами</item>
+    </string-array>
+</resources>

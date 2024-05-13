@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="SOBananas">
+        <item>Кавендиш</item>
+        <item>Лакатан</item>
+        <item>Мансано</item>
+        <item>Платано</item>
+        <item>Красный банан</item>
+        <item>Ямайский банан</item>
+        <item>Плантайн</item>
+        <item>Банан-бэби</item>
+        <item>Банан-манго</item>
+        <item>Банан-картофель</item>
+    </string-array>
+</resources>

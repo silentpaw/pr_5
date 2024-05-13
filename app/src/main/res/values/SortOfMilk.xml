@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="SOMilk">
+        <item>Коровье молоко</item>
+        <item>Козье молоко</item>
+        <item>Овечье молоко</item>
+        <item>Кобыльное молоко</item>
+        <item>Соевое молоко</item>
+        <item>Миндальное молоко</item>
+        <item>Кокосовое молоко</item>
+        <item>Рисовое молоко</item>
+        <item>Овсяное молоко</item>
+        <item>Молоко из кешью</item>
+    </string-array>
+</resources>

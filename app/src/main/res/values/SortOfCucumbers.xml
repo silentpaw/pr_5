@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="SOCucumbers">
+        <item>Муромский</item>
+        <item>Нежинский</item>
+        <item>Алтайский</item>
+        <item>Маша</item>
+        <item>Конни</item>
+        <item>Зозуля</item>
+        <item>Герман</item>
+        <item>Апрельский</item>
+        <item>Кураж</item>
+        <item>Китайский</item>
+    </string-array>
+</resources>

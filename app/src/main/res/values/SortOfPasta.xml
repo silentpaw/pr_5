@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="SOPasta">
+        <item>Спагетти</item>
+        <item>Пенне</item>
+        <item>Фетуччине</item>
+        <item>Фузилли</item>
+        <item>Равиоли</item>
+        <item>Капиллини</item>
+        <item>Лингвини</item>
+        <item>Орзо</item>
+        <item>Кончильи</item>
+        <item>Пенне ригате</item>
+    </string-array>
+</resources>

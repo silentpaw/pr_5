@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="SOApple">
+        <item>Фуджи</item>
+        <item>Фуджина</item>
+        <item>Гренни Смит</item>
+        <item>Голден Делишес</item>
+        <item>Ханикрисп</item>
+        <item>Пинк Леди</item>
+        <item>Макинтош</item>
+        <item>Ред Делишес</item>
+        <item>Гренни Смит</item>
+    </string-array>
+</resources>
